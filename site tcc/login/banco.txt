@@ -1,0 +1,8 @@
+create database dblogin; 
+
+create table tblogin(
+id int auto_incremment primary key,
+nome varchar(155), 
+idade char(3), 
+email varchar(155), 
+senha varchar(155)); 
