@@ -1,1 +1,1 @@
-https://heit0rs.github.io/CryptoVegas/site%20tcc/index.html
+https://heit0rs.github.io/CryptoVegas_TCC/site%20tcc/index.html
